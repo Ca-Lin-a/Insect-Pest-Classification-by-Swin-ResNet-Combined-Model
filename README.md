@@ -1,4 +1,6 @@
 # Insect-Pest-Classification-by-Swin-ResNet-Combined-Model
+## Viewing the Notebook File
+Due to GitHub rendering limitations, please download the .ipynb file and view the full contents in a local environment (such as VSCode or Jupyter Lab).
 ## My Contribution
 
 **Role**: Swin Transformer Module Developer (Shizhuang Liu)
